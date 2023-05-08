@@ -1,0 +1,200 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.story-section {
+  margin-top: 118px;
+}
+
+.anchors {
+  list-style-type: none;
+}
+
+.white-back {
+  color: black;
+  background-color: white;
+}
+
+.top {
+  background-color: #0A2640;
+  padding-bottom: 150px;
+}
+.top p {
+  color: white;
+}
+.top h2 {
+  color: white;
+}
+
+.about {
+  font-family: "Manrpoe";
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 12px;
+}
+
+.about-text {
+  font-family: "Manrpoe";
+  font-size: 64px;
+  font-weight: 400;
+  margin-bottom: 17.5px;
+}
+
+.about-text-small {
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.pictures-section {
+  margin-top: -150px;
+}
+
+.col-wrapper .story-title, .col-wrapper .story {
+  font-family: "Open Sans";
+  font-size: 20px;
+  color: #777777;
+  font-weight: 400;
+}
+.col-wrapper .story-header {
+  font-family: "Manrope";
+  font-size: 48px;
+  color: black;
+}
+
+.numbers-section {
+  margin-top: 96px;
+  background-color: #0A2640;
+}
+.numbers-section .numbers-title {
+  color: #F1F1F1;
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-weight: 400;
+}
+.numbers-section .number-header {
+  color: white;
+  font-family: "Manrope";
+  font-size: 48px;
+  font-weight: 400;
+}
+.numbers-section .number {
+  color: #4FE9A4;
+  font-family: "Manrope";
+  font-size: 96px;
+  font-weight: 400;
+}
+.numbers-section .number-text {
+  color: #F1F1F1;
+}
+
+.mb-96 {
+  margin-bottom: 96px;
+}
+
+.team-section {
+  padding-top: 98.5px;
+}
+.team-section .team-title, .team-section .team-text, .team-section .team-position-title {
+  color: #777777;
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-weight: 400;
+}
+.team-section .team-header {
+  color: #000000;
+  font-family: "Manrope";
+  font-size: 48px;
+  font-weight: 400;
+}
+.team-section .team-name {
+  font-family: "Manrope";
+  font-size: 28px;
+  font-weight: 400;
+}
+
+.values-section {
+  margin-top: 96px;
+  padding-top: 111.5px;
+  padding-bottom: 131px;
+  background-color: #0A2640;
+}
+.values-section .values-title {
+  color: #ffffff;
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-weight: 400;
+}
+.values-section .values-header {
+  color: #FFFFFF;
+  font-family: "Manrope";
+  font-size: 48px;
+  font-weight: 400;
+}
+.values-section .values-text {
+  color: #F1F1F1;
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 72px;
+}
+.values-section .text-title {
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.values-section .text {
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 20px;
+  color: #F1F1F1;
+}
+
+.mid-section {
+  margin-top: 113px;
+}
+.mid-section a {
+  color: black;
+  background-color: #65E4A3;
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 20px;
+}
+.mid-section .mid-text {
+  color: #FFFFFF;
+  font-family: "Manrope";
+  font-size: 84px;
+  text-align: center;
+  margin-bottom: 74px;
+}
+
+.navy {
+  background-color: #0A2640;
+  margin-bottom: 84px;
+}
+
+.br-20 {
+  border-radius: 15px;
+}
+
+.email-text {
+  font-family: "Open Sans";
+  font-weight: 400;
+  height: 56px;
+  font-size: 20px;
+}
+
+.footer-title {
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.footer-items {
+  font-family: "Open Sans";
+  color: #777777;
+  font-weight: 400;
+  font-size: 20px;
+}/*# sourceMappingURL=style.css.map */
